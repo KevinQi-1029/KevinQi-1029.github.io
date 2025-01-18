@@ -13,5 +13,7 @@ I am currently pursuing a master's degree at the [Pattern Recognition Laboratory
 Research
 ======
 Projecting Gaussian Ellipsoids While Avoiding Affine Projection Approximation
+
 Han Qi Tao Cai Xiyue Han
+
 [arxiv](https://arxiv.org/abs/2411.07579)
