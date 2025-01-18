@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+I am currently pursuing a master's degree at the [Pattern Recognition Laboratory](https://ac.bit.edu.cn/xygk/zzjg/jcxszz/401dc4db5410423db49a077b2c838592.htm) of [Beijing Institute of Technology](https://www.bit.edu.cn/), specializing in 3D computer vision. I completed my undergraduate studies at [the School of Automation](https://ac.bit.edu.cn/xygk/xyjj/index.htm), Beijing Institute of Technology. My primary research areas include 3D Gaussian Splatting, Neural Radiance Fields, and 3D scene understanding.
 
 A data-driven personal website
 ======
